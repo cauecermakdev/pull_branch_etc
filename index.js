@@ -1,0 +1,2 @@
+//teste index.js
+//
